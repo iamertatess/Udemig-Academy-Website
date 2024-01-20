@@ -1,0 +1,15 @@
+body::before{
+   display: block;
+   content: '';
+   height: 70px;
+}
+
+.card-body:hover{
+    background-color: rgb(255, 193, 7);
+    opacity: inherit;
+}
+ nav ul li a:hover{
+    background-color: rgb(255, 193, 7) !important;
+    border-radius: 15px;
+}
+
